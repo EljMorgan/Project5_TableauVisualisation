@@ -260,6 +260,172 @@
               <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
             </attributes>
           </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_customers_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_order_items_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_products_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[product_category_name_translation.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='quote-char'>&quot;\&quot;&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_sellers_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_geolocation_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_customers_dataset.csv1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_order_payments_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[olist_order_reviews_dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='quote-char'>&quot;\&quot;&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_id</remote-name>
             <remote-type>129</remote-type>
@@ -273,6 +439,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_id</remote-name>
@@ -287,6 +454,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_status</remote-name>
@@ -301,6 +469,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_purchase_timestamp</remote-name>
@@ -312,6 +481,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_approved_at</remote-name>
@@ -323,6 +493,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_delivered_carrier_date</remote-name>
@@ -334,6 +505,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_delivered_customer_date</remote-name>
@@ -345,6 +517,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_estimated_delivery_date</remote-name>
@@ -356,24 +529,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_customers_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_id</remote-name>
@@ -388,6 +544,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_unique_id</remote-name>
@@ -402,6 +559,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_zip_code_prefix</remote-name>
@@ -413,6 +571,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_city</remote-name>
@@ -427,6 +586,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_state</remote-name>
@@ -441,24 +601,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_order_items_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_orders_dataset.csv_099A62BD2C4C4A44957B28E86287EA9A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_id</remote-name>
@@ -473,6 +616,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_item_id</remote-name>
@@ -484,6 +628,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_id</remote-name>
@@ -498,6 +643,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>seller_id</remote-name>
@@ -512,6 +658,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>shipping_limit_date</remote-name>
@@ -523,6 +670,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>price</remote-name>
@@ -534,6 +682,7 @@
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>freight_value</remote-name>
@@ -545,24 +694,7 @@
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_products_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_items_dataset.csv_CD74910D73CF450F8F43B29B23C1AFCE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_id</remote-name>
@@ -577,6 +709,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_category_name</remote-name>
@@ -591,6 +724,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_name_lenght</remote-name>
@@ -602,6 +736,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_description_lenght</remote-name>
@@ -613,6 +748,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_photos_qty</remote-name>
@@ -627,6 +763,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_weight_g</remote-name>
@@ -638,6 +775,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_length_cm</remote-name>
@@ -649,6 +787,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_height_cm</remote-name>
@@ -660,6 +799,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_width_cm</remote-name>
@@ -671,26 +811,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[product_category_name_translation.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='quote-char'>&quot;\&quot;&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_10557E626EDA48AE90963B1C81083D65]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_category_name</remote-name>
@@ -705,6 +826,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[product_category_name_translation.csv_3F0FE4CA5E784DC6923D2D9956CAE3FC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_category_name_english</remote-name>
@@ -719,24 +841,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_sellers_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[product_category_name_translation.csv_3F0FE4CA5E784DC6923D2D9956CAE3FC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>seller_id</remote-name>
@@ -751,6 +856,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_sellers_dataset.csv_C3B9B715DEE24F2DA17455009A11C7E1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>seller_zip_code_prefix</remote-name>
@@ -762,6 +868,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_sellers_dataset.csv_C3B9B715DEE24F2DA17455009A11C7E1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>seller_city</remote-name>
@@ -776,6 +883,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_sellers_dataset.csv_C3B9B715DEE24F2DA17455009A11C7E1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>seller_state</remote-name>
@@ -790,24 +898,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_geolocation_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_sellers_dataset.csv_C3B9B715DEE24F2DA17455009A11C7E1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>geolocation_zip_code_prefix</remote-name>
@@ -819,6 +910,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>geolocation_lat</remote-name>
@@ -830,6 +922,7 @@
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>geolocation_lng</remote-name>
@@ -841,6 +934,7 @@
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>geolocation_city</remote-name>
@@ -855,6 +949,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>geolocation_state</remote-name>
@@ -869,24 +964,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_customers_dataset.csv1]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_id</remote-name>
@@ -901,6 +979,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_unique_id</remote-name>
@@ -915,6 +994,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_zip_code_prefix</remote-name>
@@ -926,6 +1006,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_city</remote-name>
@@ -940,6 +1021,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>customer_state</remote-name>
@@ -954,24 +1036,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_order_payments_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_geolocation_dataset.csv_D2AD29D82BFB44BE909D97685914BE95]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_id</remote-name>
@@ -986,6 +1051,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_payments_dataset.csv_793229235AF04CD481EEFAE6ECA05D09]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>payment_sequential</remote-name>
@@ -997,6 +1063,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_payments_dataset.csv_793229235AF04CD481EEFAE6ECA05D09]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>payment_type</remote-name>
@@ -1011,6 +1078,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_payments_dataset.csv_793229235AF04CD481EEFAE6ECA05D09]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>payment_installments</remote-name>
@@ -1022,6 +1090,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_payments_dataset.csv_793229235AF04CD481EEFAE6ECA05D09]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>payment_value</remote-name>
@@ -1033,26 +1102,7 @@
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
-          </metadata-record>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[olist_order_reviews_dataset.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='quote-char'>&quot;\&quot;&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
-            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_payments_dataset.csv_793229235AF04CD481EEFAE6ECA05D09]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>review_id</remote-name>
@@ -1067,6 +1117,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>order_id</remote-name>
@@ -1081,6 +1132,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>review_score</remote-name>
@@ -1092,6 +1144,7 @@
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>review_comment_title</remote-name>
@@ -1106,6 +1159,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>review_comment_message</remote-name>
@@ -1120,6 +1174,7 @@
             <width>1073741823</width>
             <contains-null>true</contains-null>
             <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>review_creation_date</remote-name>
@@ -1131,6 +1186,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>review_answer_timestamp</remote-name>
@@ -1142,6 +1198,7 @@
             <local-type>datetime</local-type>
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_order_reviews_dataset.csv_E4656049D4794964A525D9CFE2BABE7A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
         </metadata-records>
       </connection>
@@ -1222,7 +1279,7 @@
       <column-instance column='[customer_state (olist_customers_dataset.csv1)]' derivation='None' name='[none:customer_state (olist_customers_dataset.csv1):nk]' pivot='key' type='nominal' />
       <column-instance column='[geolocation_state]' derivation='None' name='[none:geolocation_state:nk]' pivot='key' type='nominal' />
       <column-instance column='[payment_type]' derivation='None' name='[none:payment_type:nk]' pivot='key' type='nominal' />
-      <column-instance column='[product_photos_qty]' derivation='None' name='[none:product_photos_qty:ok]' pivot='key' type='nominal' />
+      <column-instance column='[product_photos_qty]' derivation='None' name='[none:product_photos_qty:nk]' pivot='key' type='nominal' />
       <column-instance column='[seller_state]' derivation='None' name='[none:seller_state:nk]' pivot='key' type='nominal' />
       <drill-paths>
         <drill-path name='Mapping'>
@@ -1320,141 +1377,6 @@
               <bucket>&quot;RS&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:payment_type:nk]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;not_defined&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;debit_card&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;credit_card&quot;</bucket>
-            </map>
-            <map to='#edc948'>
-              <bucket>&quot;voucher&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;boleto&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:product_photos_qty:ok]' type='palette'>
-            <map to='#499894'>
-              <bucket>&quot;9&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;1&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;5&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;13&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;10&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;6&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;2&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;7&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;15&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;11&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;8&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;3&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;12&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;4&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:seller_state:nk]' type='palette'>
-            <map to='#499894'>
-              <bucket>&quot;MS&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;AM&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;SE&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;ES&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;PE&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;MT&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;GO&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;RS&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;BA&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;SP&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;RN&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;MA&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;PI&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;PR&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;RO&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;SC&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;PA&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;MG&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;CE&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;RJ&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;PB&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;DF&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:customer_state (olist_customers_dataset.csv1):nk]' type='palette'>
             <map to='#499894'>
               <bucket>&quot;ES&quot;</bucket>
@@ -1539,6 +1461,141 @@
             </map>
             <map to='#ffbe7d'>
               <bucket>&quot;RS&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:seller_state:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;MS&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;AM&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;SE&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;ES&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;PE&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;MT&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;GO&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;RS&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;BA&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;SP&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;RN&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;MA&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;PI&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;PR&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;RO&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;SC&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;PA&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;MG&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;CE&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;RJ&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;PB&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;DF&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:product_photos_qty:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;9&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;1&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;5&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;13&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;10&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;6&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;2&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;7&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;15&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;11&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;8&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;3&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;12&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;4&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:payment_type:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;not_defined&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;debit_card&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;credit_card&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;voucher&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;boleto&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -1863,7 +1920,7 @@
                 <column datatype='string' name='product_category_name' ordinal='1' />
                 <column datatype='integer' name='product_name_lenght' ordinal='2' />
                 <column datatype='integer' name='product_description_lenght' ordinal='3' />
-                <column datatype='integer' name='product_photos_qty' ordinal='4' />
+                <column datatype='string' name='product_photos_qty' ordinal='4' />
                 <column datatype='integer' name='product_weight_g' ordinal='5' />
                 <column datatype='integer' name='product_length_cm' ordinal='6' />
                 <column datatype='integer' name='product_height_cm' ordinal='7' />
@@ -2643,14 +2700,17 @@
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>product_photos_qty</remote-name>
-            <remote-type>20</remote-type>
+            <remote-type>129</remote-type>
             <local-name>[product_photos_qty]</local-name>
             <parent-name>[olist_products_dataset.csv]</parent-name>
             <remote-alias>product_photos_qty</remote-alias>
             <ordinal>36</ordinal>
-            <local-type>integer</local-type>
-            <aggregation>Sum</aggregation>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
             <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[olist_products_dataset.csv_1D80153D5A0B499AB1E92D43CDE31AA7]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
@@ -3001,7 +3061,7 @@
       <column caption='Product Id' datatype='string' name='[product_id]' role='dimension' type='nominal' />
       <column caption='Product Length Cm' datatype='integer' name='[product_length_cm]' role='measure' type='quantitative' />
       <column caption='Product Name Lenght' datatype='integer' name='[product_name_lenght]' role='measure' type='quantitative' />
-      <column caption='Product Photos Qty' datatype='integer' name='[product_photos_qty]' role='measure' type='quantitative' />
+      <column caption='Product Photos Qty' datatype='string' default-role='measure' default-type='ordinal' name='[product_photos_qty]' role='dimension' type='nominal' />
       <column caption='Product Weight G' datatype='integer' name='[product_weight_g]' role='measure' type='quantitative' />
       <column caption='Product Width Cm' datatype='integer' name='[product_width_cm]' role='measure' type='quantitative' />
       <column aggregation='Sum' datatype='integer' name='[review_score]' role='dimension' type='ordinal' />
@@ -3180,7 +3240,7 @@
                     <column datatype='string' name='product_category_name' ordinal='1' />
                     <column datatype='integer' name='product_name_lenght' ordinal='2' />
                     <column datatype='integer' name='product_description_lenght' ordinal='3' />
-                    <column datatype='integer' name='product_photos_qty' ordinal='4' />
+                    <column datatype='string' name='product_photos_qty' ordinal='4' />
                     <column datatype='integer' name='product_weight_g' ordinal='5' />
                     <column datatype='integer' name='product_length_cm' ordinal='6' />
                     <column datatype='integer' name='product_height_cm' ordinal='7' />
@@ -4258,7 +4318,7 @@
             <column-instance column='[payment_value]' derivation='Count' name='[cnt:payment_value:qk]' pivot='key' type='quantitative' />
             <column-instance column='[product_category_name]' derivation='None' name='[none:product_category_name:nk]' pivot='key' type='nominal' />
             <column-instance column='[product_category_name_english]' derivation='None' name='[none:product_category_name_english:nk]' pivot='key' type='nominal' />
-            <column-instance column='[product_photos_qty]' derivation='None' name='[none:product_photos_qty:ok]' pivot='key' type='nominal' />
+            <column-instance column='[product_photos_qty]' derivation='None' name='[none:product_photos_qty:nk]' pivot='key' type='nominal' />
             <column caption='Payment Value' datatype='real' name='[payment_value]' role='measure' type='quantitative' />
             <column caption='Product Category Name' datatype='string' name='[product_category_name]' role='dimension' type='nominal' />
             <column datatype='string' name='[product_category_name_english]' role='dimension' type='nominal'>
@@ -4321,12 +4381,12 @@
             </view>
             <mark class='Automatic' />
             <encodings>
-              <color column='[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:ok]' />
+              <color column='[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:nk]' />
               <text column='[federated.1j32xk10oluh5819qsue502m69o0].[cnt:payment_value:qk]' />
             </encodings>
             <customized-tooltip>
               <formatted-text>
-                <run bold='true'><![CDATA[Products from category <[federated.1j32xk10oluh5819qsue502m69o0].[none:product_category_name_english:nk]> have the photo quality of <[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:ok]> and count of Payments ]]></run>
+                <run bold='true'><![CDATA[Products from category <[federated.1j32xk10oluh5819qsue502m69o0].[none:product_category_name_english:nk]> have the photo quality of <[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:nk]> and count of Payments ]]></run>
                 <run>Æ&#10;</run>
               </formatted-text>
             </customized-tooltip>
@@ -5229,7 +5289,7 @@
         </edge>
         <edge name='right'>
           <strip size='160'>
-            <card pane-specification-id='0' param='[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:ok]' type='color' />
+            <card pane-specification-id='0' param='[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:nk]' type='color' />
           </strip>
         </edge>
       </cards>
@@ -5248,7 +5308,7 @@
         <highlight>
           <color-one-way>
             <field>[federated.1j32xk10oluh5819qsue502m69o0].[none:product_category_name_english:nk]</field>
-            <field>[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:ok]</field>
+            <field>[federated.1j32xk10oluh5819qsue502m69o0].[none:product_photos_qty:nk]</field>
           </color-one-way>
         </highlight>
       </viewpoint>
